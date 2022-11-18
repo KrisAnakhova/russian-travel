@@ -13,3 +13,4 @@
 * Создание блока с отзывами о посещении мест и рекомендациями самих посетителей сайта
 
 ## [Ссылка на проект &rarr;](https://github.com/KrisAnakhova/russian-travel.git)
+## [Ссылка на сайт &rarr;](https://krisanakhova.github.io/russian-travel/)
