@@ -1,11 +1,12 @@
 .header {
-  width: 90%;
-  height: 52px;
+  width: 92.5%;
+  /*height: 52px;*/
   background-color: #2A2C2F;
   margin: 28px auto 0 auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: flex-end;
 
 }
 
@@ -18,6 +19,6 @@
   .header {
     width: 90%;
     height: 42px;
-    margin: 18px auto 0 auto;
+    margin: 16px auto 0 auto;
   }
 }

@@ -1,5 +1,7 @@
 .place__paragraphs {
   grid-column: 2;
+  display: flex;
+
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {

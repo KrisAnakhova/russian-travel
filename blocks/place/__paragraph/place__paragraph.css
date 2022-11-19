@@ -7,12 +7,22 @@
   line-height: 29px;
 /* or 163% */
   color: #FFFFFF;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 26px;
+  padding: 0;
+
+}
+
+.place__paragraph:last-of-type {
+  margin-bottom: 0;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .place__paragraph {
     font-size: 16px;
     line-height: 26px;
+    margin-bottom: 25px;
   }
 }
 @media screen and (min-width: 320px) and (max-width: 767px) {
@@ -25,7 +35,5 @@
     margin-bottom: 25px;
     text-align: inherit;
   }
-  .place__paragraph:last-of-type {
-    margin-bottom: 0;
-  }
+
 }

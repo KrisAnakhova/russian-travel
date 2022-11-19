@@ -19,6 +19,8 @@
     grid-template-columns: 340px calc(100% - 28px - 340px);
     column-gap: 28px;
     width: 100%;
+    margin-bottom: 73px;
+
 
   }
  }
@@ -28,6 +30,6 @@
     width: 100%;
     display: grid;
     grid-template-columns: 100%;
-    
+
   }
 }
